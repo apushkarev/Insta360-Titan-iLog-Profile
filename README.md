@@ -10,7 +10,7 @@ Version 0.3.8
 
 ### Lut notes:
 - using Rec 2020 to interpret data in footage is an educated guess. Insta360 does not specify what color space and gamma is used for iLog, so after checking different options I settled on Rec 2020 and gamma 2.4
-- insta360 i-Log is not a true log, since it's tone curve is S-shaped
+- insta360 i-Log is not a true log, since it's tone curve is S-shaped reverse
 - this lut does color conversion only, it does not apply S curve (I hope users can do it themself)
 - output image looks just flat and needs contrast adjustments
 
