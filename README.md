@@ -19,4 +19,4 @@ Version 0.3.8
 - apply lut in this node
 - use CST for conversions to working color space
 
-Your feedback is welcome, I'm limited in source footages for extensive testing
+Your feedback is welcome, I'm limited in sample footages for extensive testing
