@@ -3,7 +3,7 @@ This repo contains custom made log profile for specified camera
 
 ### Hardware notes:
 - created with [CMP Digital Target Studio Edition](https://www.cmp-color.fr/eng%20digital%20target.html)
-- light source used is Aputure Amanan 60x S (set to 5000K) with a softbox
+- light source used is Aputure Amanan 60x S (set to 5000K) with a modified softbox
 - camera WB set to 5000K
 
 ### Lut notes:
