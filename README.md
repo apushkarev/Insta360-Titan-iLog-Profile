@@ -1,6 +1,8 @@
 # Insta360 Titan iLog Profile
 This repo contains custom made log profile for specified camera
 
+Version 0.3.8
+
 ### Hardware notes:
 - created with [CMP Digital Target Studio Edition](https://www.cmp-color.fr/eng%20digital%20target.html)
 - light source used is Aputure Amaran 60x S (set to 5000K) with a modified softbox
