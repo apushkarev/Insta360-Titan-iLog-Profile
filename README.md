@@ -16,4 +16,4 @@ This repo contains custom made log profile for specified camera
 - apply lut in this node
 - use CST for conversions to working color space
 
-Your feedback is welcome, I'm limited in source footages for extensive checking
+Your feedback is welcome, I'm limited in source footages for extensive testing
